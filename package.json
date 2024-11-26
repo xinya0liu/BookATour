@@ -1,0 +1,19 @@
+{
+  "name": "bookatour",
+  "version": "1.0.0",
+  "description": "learning next.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinya0liu/BookATour.git"
+  },
+  "author": "xinya liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinya0liu/BookATour/issues"
+  },
+  "homepage": "https://github.com/xinya0liu/BookATour#readme"
+}
