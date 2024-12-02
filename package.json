@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/xinya0liu/BookATour/issues"
   },
-  "homepage": "https://github.com/xinya0liu/BookATour#readme"
+  "homepage": "https://github.com/xinya0liu/BookATour#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "morgan": "^1.10.0"
+  }
 }
